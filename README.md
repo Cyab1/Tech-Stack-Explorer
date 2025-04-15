@@ -5,7 +5,6 @@
 
 A command-line tool to discover trending GitHub repositories by programming language. Perfect for developers to stay updated with what's hot in their tech stack!
 
-![Demo](demo.gif) *(Replace with actual screenshot/GIF)*
 
 ## ✨ Features
 
