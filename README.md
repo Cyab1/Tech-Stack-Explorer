@@ -48,7 +48,7 @@ python tech_explorer.py --language javascript --days 30
    ⭐ Stars: 2876
    🔗 URL: https://github.com/user/nextjs-boilerplate
 
-🧠 How It Works
+## 🧠 How It Works
 1. Makes authenticated requests to GitHub's search API
 
 2. Caches results locally for 6 hours (saves to repo_cache.json)
